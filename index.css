@@ -21,7 +21,7 @@ h1 {
 
 .dice {
     display: inline-block;
-    margin: 50px;
+    margin: 30px;
     text-align: center;
 }
 
@@ -31,11 +31,11 @@ h1 {
     font-size: 50px;
 }
 
-/* .dice img {
-    width: 100px; 
+.dice img {
+    width: 50%; 
     height: auto; 
     border: 1px solid #ccc;
-} */
+}
 
 footer {
     color: #fff;
